@@ -31,7 +31,9 @@ const Work = () => {
                 how I've grown as a developer. From websites to web
                 applications...
               </p>
-              <button className="btn btn-sm">View all projects</button>
+              <a href="https://github.com/GivikoT">
+                <button className="btn btn-sm">View all projects</button>
+              </a>
             </div>
             {/* image */}
             <div className="group relative overflow-hidden border-2 border-white/50 rounded-xl">
